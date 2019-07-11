@@ -1,0 +1,20 @@
+{
+  "name": "react-multiple-dnd",
+  "description": null,
+  "version": "0.0.145",
+  "dependencies": {
+    "react": "15.5.3",
+    "react-dnd": "2.5.1",
+    "react-dnd-html5-backend": "2.5.1",
+    "react-dom": "15.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

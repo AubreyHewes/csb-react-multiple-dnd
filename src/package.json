@@ -1,0 +1,14 @@
+{
+  "name": "react-multiple-dnd",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": ["dnd", "react", "drag&drop"],
+  "homepage": "https://codesandbox.io/s/2p0yv55zwn",
+  "main": "index.js",
+  "dependencies": {
+    "react": "15.5.3",
+    "react-dnd": "2.5.1",
+    "react-dnd-html5-backend": "2.5.1",
+    "react-dom": "15.5.3"
+  }
+}
